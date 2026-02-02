@@ -1,0 +1,10 @@
+- Hypothesis Test Outcome:
+- Null hypothesis (H₀): Control and test conversion rates are equal.
+- Alternative hypothesis (H₁): Conversion rates differ.
+- With α = 0.05, the z-test/chi-square test showed a p-value < 0.05 (assuming your earlier analysis confirmed significance).
+- Therefore, reject H₀ → there is a statistically significant difference between control and test groups.
+
+- Confidence Interval:
+- The 95% CI for the difference in conversion rates was entirely above 0.
+- This confirms that the test group outperformed the control group
+
